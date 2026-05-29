@@ -1,4 +1,3 @@
-```markdown
 # 📊 Sales & Profit Dashboard using Microsoft Excel
 
 ![Sales Dashboard](dashboardpic.png)
@@ -227,5 +226,3 @@ It enhanced my understanding of real-world business analytics and interactive da
 # 📌 Preview
 
 ![Dashboard Preview](dashboardpic.png)
-
-```
