@@ -1,6 +1,7 @@
 # 📊 Sales & Profit Dashboard using Microsoft Excel
 
-![Sales Dashboard](dashboardpic.png)
+<img width="1483" height="749" alt="Screenshot 2026-05-29 152147" src="https://github.com/user-attachments/assets/334faa59-6c1c-4d41-8197-0e430039f260" />
+
 
 ---
 
@@ -143,9 +144,6 @@ This chart shows monthly sales trends.
 ### Lowest Sales Month
 📉 February  
 
-### Insight
-Sales increased significantly during festive and year-end seasons.
-
 ---
 
 # 🎛️ Interactive Features
@@ -225,4 +223,5 @@ It enhanced my understanding of real-world business analytics and interactive da
 
 # 📌 Preview
 
-![Dashboard Preview](dashboardpic.png)
+<img width="1483" height="749" alt="Screenshot 2026-05-29 152147" src="https://github.com/user-attachments/assets/65aa2b4c-1868-4a18-970f-7dd9b48bb424" />
+
