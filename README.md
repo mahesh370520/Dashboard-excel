@@ -223,5 +223,4 @@ It enhanced my understanding of real-world business analytics and interactive da
 
 # 📌 Preview
 
-<img width="1483" height="749" alt="Screenshot 2026-05-29 152147" src="https://github.com/user-attachments/assets/65aa2b4c-1868-4a18-970f-7dd9b48bb424" />
-
+<img width="1482" height="748" alt="dashboardpic" src="https://github.com/user-attachments/assets/97df4d41-9acb-4a6b-b51a-ccab4add8ccb" />
